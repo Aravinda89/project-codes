@@ -6,8 +6,7 @@ This is a temporary script file.
 """
 
 ## using Keras pretrained model
-## https://www.learnopencv.com/keras-tutorial-using-pre-trained-imagenet-models/
-#%%
+
 import keras
 import numpy as np
 from keras.applications import vgg16, inception_v3, resnet50, mobilenet
